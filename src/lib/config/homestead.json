@@ -7,8 +7,8 @@
   "network": "homestead",
   "portisNetwork": "mainnet",
   "unknown": false,
-  "rpc": "https://mainnet.infura.io/v3/{{INFURA_KEY}}",
-  "ws": "wss://mainnet.infura.io/ws/v3/{{INFURA_KEY}}",
+  "rpc": "https://eth-mainnet.alchemyapi.io/v2/{{ALCHEMY_KEY}}",
+  "ws": "wss://eth-mainnet.g.alchemy.com/v2/{{ALCHEMY_KEY}}",
   "loggingRpc": "https://eth-mainnet.alchemyapi.io/v2/{{ALCHEMY_KEY}}",
   "explorer": "https://etherscan.io",
   "explorerName": "Etherscan",
@@ -61,7 +61,7 @@
   },
   "keys": {
     "infura": "daaa68ec242643719749dd1caba2fc66",
-    "alchemy": "cQGZUiTLRCFsQS7kbRxPJK4eH4fTTu88"
+    "alchemy": "BIb9QJsk6DFcnEd7JheFocioBZ33HeLD"
   },
   "strategies": {
     "0": {

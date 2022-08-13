@@ -1,4 +1,6 @@
-# Balancer Frontend App (v2)
+# Balancer Frontend App (v2) w/o Sanctions/Blocklist BS
+
+You will need to build from source!
 
 Frontend Vue app for Balancer exchange and pool management.
 
